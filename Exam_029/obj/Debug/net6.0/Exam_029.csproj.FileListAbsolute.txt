@@ -1,0 +1,16 @@
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/bin/Debug/net6.0/Exam_029
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/bin/Debug/net6.0/Exam_029.deps.json
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/bin/Debug/net6.0/Exam_029.runtimeconfig.json
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/bin/Debug/net6.0/Exam_029.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/bin/Debug/net6.0/ref/Exam_029.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/bin/Debug/net6.0/Exam_029.pdb
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/obj/Debug/net6.0/Exam_029.GlobalUsings.g.cs
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/obj/Debug/net6.0/Exam_029.csproj.AssemblyReference.cache
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/obj/Debug/net6.0/Exam_029.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/obj/Debug/net6.0/Exam_029.AssemblyInfoInputs.cache
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/obj/Debug/net6.0/Exam_029.AssemblyInfo.cs
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/obj/Debug/net6.0/Exam_029.csproj.CoreCompileInputs.cache
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/obj/Debug/net6.0/Exam_029.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/obj/Debug/net6.0/ref/Exam_029.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/obj/Debug/net6.0/Exam_029.pdb
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_4/Exam_029/obj/Debug/net6.0/Exam_029.genruntimeconfig.cache
